@@ -4,13 +4,11 @@ This project aims to develop a social media website where users can connect with
 
 ## Features
 
-- **User Authentication: Users can sign up, log in, and manage their profiles.
+- User Authentication: Users can sign up, log in, and manage their profiles.
 
-- **Post Creation: Users can create, edit, and delete posts.
+- Post Creation: Users can create, edit, and delete posts.
 
-- **Interactions: Users can like, comment on posts, and follow other users.
-
-- **.
+- Interactions: Users can like, comment on posts, and follow other users.
 
 ## Technologies Used
 
